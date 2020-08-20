@@ -1,0 +1,33 @@
+.sm-body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background:#cccccc;
+}
+.sm-box{
+  width: 200px;
+  height: 200px;
+
+  margin: 20px;
+}
+.sm-box--red{
+  background-color: red;
+}
+.sm-box--blue{
+  background-color: blue;
+}
+.sm-box--left{
+  float: left;
+}
+.sm-box--right{
+  float: right;
+}
+.sm-row{
+  width: 100%
+  position: relative;
+  overflow: hidden;
+
+}
+.sm-box--circle{
+  border-radius: 50%;
+}
